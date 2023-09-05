@@ -2,7 +2,7 @@
 
 #bg-grey{
     background-color: #F6F8F9;
-} 
+}
 o è di default?
 
 .bg-blu{
@@ -61,26 +61,59 @@ h1{
     margin: auto;
     margin-bottom: 1%;
     padding: 1%;
-}
-#button-section{
     border: 1px solid white;
     border-radius: 3px;
 }
 button{
-    width: 80px;
+    width: 8%;
     height: 40px;
     border: 1px solid #CED3D7;
     border-radius: 7px;
     background-color: white;
     color: #CACFD4;
     position: relative;
+    padding: 1%;
+    text-align: center;
+    font-size: 0.6em;
 }
 .bg-blu{
     background-color: #47ADF1;
     color: white;
     margin-left: 2%;
 }
+.arrow{
+    font-size:small;
+    vertical-align: center;
+}
+.list-section{
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+li{
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.list-item{
+    list-style: none;
+    margin-left: 2%;
+}
+.v-symbol{
+    font-size:small;
+    text-align: center;
+    color: #71C6B1;
+    border: 1px solid #71C6B1;
+    border-radius: 50%;
+}
+.x-symbol{
+    font-size:small;
+    text-align: center;
+    color: #E94840;
+    border: 1px solid #E94840;
+    border-radius: 50%;
+}
 
+/* <span class="x-symbol">&#10007;</span> */
 
 /* main */
 
