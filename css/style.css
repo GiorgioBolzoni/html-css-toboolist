@@ -48,7 +48,6 @@ h1{
 }
 button{
     width: 8%;
-    height: 40px;
     border: 1px solid #CED3D7;
     border-radius: 7px;
     background-color: white;
@@ -78,21 +77,25 @@ li{
 }
 .list-item{
     list-style: none;
-    margin-left: 2%;
+   
 }
 .v-symbol{
-    font-size:small;
+    font-size:medium;
     text-align: center;
     color: #71C6B1;
-    border: 1px solid #71C6B1;
+    border: 1.5px solid #71C6B1;
     border-radius: 50%;
+    padding: 3px;
+    margin-right: 1%;
 }
 .x-symbol{
     font-size:small;
     text-align: center;
     color: #E94840;
-    border: 1px solid #E94840;
+    border: 1.5px solid #E94840;
     border-radius: 50%;
+    padding: 3px;
+    margin-right: 1%;
 }
 #bg-purple{
     background-color: #9C72E4;
@@ -116,10 +119,8 @@ li{
     border: 1px solid;
     border-radius: 25px;
     padding: 0.5%;
-    
+    padding-left: 1%;
+    padding-right: 1%;
 }
-
-/* <span class="x-symbol">&#10007;</span> */
-
 /* main */
 
