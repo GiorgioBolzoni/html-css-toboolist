@@ -48,8 +48,39 @@ h1{
 /* header */
 
 /* main */
-main{
-    
+#bg-grey{
+    background-color: #F6F8F9;
+    padding: 2%;
 }
+#box-center{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.bg-white{
+    background-color: #FFFFFF;
+    margin: auto;
+    margin-bottom: 1%;
+    padding: 1%;
+}
+#button-section{
+    border: 1px solid white;
+    border-radius: 3px;
+}
+button{
+    width: 80px;
+    height: 40px;
+    border: 1px solid #CED3D7;
+    border-radius: 7px;
+    background-color: white;
+    color: #CACFD4;
+    position: relative;
+}
+.bg-blu{
+    background-color: #47ADF1;
+    color: white;
+    margin-left: 2%;
+}
+
+
 /* main */
 
