@@ -22,5 +22,34 @@ o è di default?
     background-color: #B0C926;
 }
 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 24px;
+    font-family:Arial, Helvetica, sans-serif
+}
+/* header */
+header{
+    padding: 1%;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+}
+#logo-taboolist{
+    vertical-align: middle;
+    position: relative;
 
+}
+/* header */
+
+/* main */
+main{
+    
+}
+/* main */
 
