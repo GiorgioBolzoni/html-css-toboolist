@@ -37,6 +37,7 @@ h1{
 #box-center{
     margin-left: 10%;
     margin-right: 10%;
+    min-width: 200px;
 }
 .bg-white{
     background-color: #FFFFFF;
@@ -80,21 +81,27 @@ li{
    
 }
 .v-symbol{
-    font-size:medium;
+    display: inline-block;
     text-align: center;
     color: #71C6B1;
     border: 1.5px solid #71C6B1;
     border-radius: 50%;
+    width: 25px;
+    height: 25px;
     padding: 3px;
+    line-height: 25px;
     margin-right: 1%;
 }
 .x-symbol{
-    font-size:small;
+    display: inline-block;
     text-align: center;
     color: #E94840;
     border: 1.5px solid #E94840;
     border-radius: 50%;
+    width: 25px;
+    height: 25px;
     padding: 3px;
+    line-height: 25px;
     margin-right: 1%;
 }
 #bg-purple{
